@@ -1,0 +1,46 @@
+body{
+	background-color:red;
+	
+}
+div#principal{
+	float:left;
+}
+div#seccion{
+	float:right;
+}
+	
+	div#Datos{
+		margin:auto;
+	width:960px;
+	height:400px;
+	background-color:yellow;
+	font-family: Arial, sans-serif;
+	}
+	div#Estudios{
+		margin:auto;
+	width:960px;
+	height:100px;
+	background-color:yellow;
+	font-family: Arial, sans-serif;
+	}
+	div#Conocimientos{
+		margin:auto;
+	width:960px;
+	height:200px;
+	background-color:yellow;
+	font-family: Arial, sans-serif;
+	}
+	div#Deportes{
+		margin:auto;
+	width:960px;
+	height:170px;
+	background-color:yellow;
+	font-family: Arial, sans-serif;
+	}
+	div#Portfolio{
+		margin:auto;
+	width:960px;
+	height:100px;
+	background-color:yellow;
+	font-family: Arial, sans-serif;
+	}
